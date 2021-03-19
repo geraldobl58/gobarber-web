@@ -30,23 +30,6 @@ export const Content = styled.div`
       margin-bottom: 24px;
     }
 
-    input {
-      background: #232129;
-      color: #fff;
-      border-radius: 10px;
-      border: 2px solid #232129;
-      padding: 16px;
-      width: 100%;
-
-      &::placeholder {
-        color: #fff;
-      }
-
-      & + input {
-        margin-top: 8px;
-      }
-    }
-
     button {
       background: #ff9000;
       color: #312e38;
